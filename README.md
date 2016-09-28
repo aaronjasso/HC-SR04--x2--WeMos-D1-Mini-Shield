@@ -10,11 +10,11 @@ Utilizes a BS138DW SOT-363 chip (which is just two BSS138 N-channel enhanced mod
 All resistors are 0805 size. Resistors on top of board (with the IC) are 10K, resistors on bottom are 20K.
 
 SENSE1 is mounted to the board  
-Trigger pin:  D3
+Trigger pin:  D3  
 Echo pin:  D4
 
 SENSE2 (optional) can be located off-board  
-Trigger pin:  D7
+Trigger pin:  D7  
 Echo pin:  D8
 
 The board and SENSE1 have been tested. Example Arduino sketches are in work.
