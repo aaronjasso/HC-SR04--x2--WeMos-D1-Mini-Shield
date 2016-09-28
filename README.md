@@ -17,4 +17,4 @@ SENSE2 (optional) can be located off-board
 Trigger pin:  D7  
 Echo pin:  D8
 
-The board and SENSE1 have been tested. Example Arduino sketches are in work.
+The board and SENSE1 have been tested. Example Arduino sketches are in work. Boards available from OSH Park here: https://oshpark.com/shared_projects/YeCIIDGi
